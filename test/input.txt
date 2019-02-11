@@ -144,8 +144,8 @@
 # test show command
 ##########################################################
 
-    # show number of entries currently
-    show
+  # show number of entries currently
+  show
 
 ##########################################################
 # test clear command
