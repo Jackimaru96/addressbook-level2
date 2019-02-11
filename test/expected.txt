@@ -290,6 +290,9 @@
 || 
 || 2 persons listed!
 || ===================================================
+|| Enter command: || [Command entered:  show]
+|| 0 persons listed!
+|| ===================================================
 || Enter command: || [Command entered:  clear]
 || Address book has been cleared!
 || ===================================================
